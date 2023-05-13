@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.third.right.pluginBase.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "priority": 2147483645,
+  "mixinPriority": 2147483645,
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "MultiplayerScreenMixin"
+  ]
+}
