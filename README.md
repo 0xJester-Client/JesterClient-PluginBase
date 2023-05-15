@@ -4,5 +4,4 @@
 <img src="logo.png" width="128"/>
 </p>
 
-<p align="center"> <b> TODO: </b> </p>
 <p> All Complete with Mixin Loading, Hud, Commands and Modules. Passed all testing. </p>
